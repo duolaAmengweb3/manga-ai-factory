@@ -1,0 +1,11 @@
+name = "ai-manga-workbench"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+
+# Secrets managed via `wrangler pages secret put`:
+# MINIMAX_API_KEY, MINIMAX_BASE_URL, MINIMAX_MODEL, ADMIN_SECRET
+
+[[kv_namespaces]]
+binding = "CODES_KV"
+id = "e997872b8f6446cca269829a927eafef"
