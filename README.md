@@ -172,7 +172,7 @@ ADMIN_SECRET=你的管理员密钥（用于生成激活码）
 
 ## License
 
-[MIT](./LICENSE)
+[CC BY-NC 4.0](./LICENSE) — 可自由使用和修改，禁止商业用途
 
 ---
 
